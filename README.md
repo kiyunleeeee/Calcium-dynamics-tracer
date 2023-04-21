@@ -17,7 +17,7 @@ The following sequences show the analysis process.
 
 
 ### Get information from users
-
+<img src="https://github.com/kiyunleeeee/Calcium-dynamics-tracer/blob/bd1d1b7e10eea6b7485146ebdc1b284310cc04bd/user%20input.png" width="25%" height="25%">
 
 ### Load image sequence
 <img src="https://github.com/kiyunleeeee/Calcium-dynamics-tracer/blob/4b5902db1350dc1871961e7e62546f7ab56f3ade/image%20sequence.png" width="50%" height="50%">
